@@ -55,7 +55,7 @@ const acceptInputHandler = function(obj) {
 videoInput.addEventListener("change", acceptInputHandler);
 
 
-/***************Volume and speed*********************/
+/***************Volume and speed********************/
 //select the element
 const speedUp = document.querySelector("#speedUp");
 const speedDown = document.querySelector("#speedDown");
